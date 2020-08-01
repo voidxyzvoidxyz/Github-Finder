@@ -1,5 +1,5 @@
 # Github-Finder
-Find the github repo  
+Find the github repo using React JS
  
 Install necessary dependencies.
 
