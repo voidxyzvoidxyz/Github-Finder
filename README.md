@@ -6,3 +6,5 @@ Create a reacr app using:
 npx create-react-app filename
 App.js is the parent component and create the components
 
+
+
