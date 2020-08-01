@@ -11,5 +11,7 @@ npx create-react-app filename
 
 App.js is the parent component and create the other components
 
+Install routing using: npm install react-router-dom
+
 
 
