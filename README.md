@@ -5,7 +5,7 @@ Install necessary dependencies.
 
 1)Node 2)VS Code(Editor)
 
-Create a reacr app using:
+Create a react app using:
 
 npx create-react-app filename
 
