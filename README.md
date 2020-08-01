@@ -13,5 +13,7 @@ App.js is the parent component and create the other components
 
 Install routing using: npm install react-router-dom
 
+Use npm start in the terminal to run the application
+
 
 
